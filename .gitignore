@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+# Maven 
+target
+
+# Eclipse
+.classpath
+.project
+.settings
