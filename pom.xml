@@ -28,8 +28,8 @@
 
     <scm>
         <connection>scm:git:git@github.com:jotel/websocket-client.git</connection>
-        <url>scm:git:git@github.com:jotel/websocket-client.git</url>
         <developerConnection>scm:git:git@github.com:jotel/websocket-client.git</developerConnection>
+        <url>git@github.com:jotel/websocket-client.git</url>
     </scm>
 
     <organization>
